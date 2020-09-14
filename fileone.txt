@@ -1,0 +1,3 @@
+file 1
+hi now i am checking git checkout with file f1
+her i have changed the file f1 name to fileone
